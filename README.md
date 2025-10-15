@@ -17,7 +17,7 @@ Ofrece una interfaz limpia, adaptable a diferentes dispositivos y con efectos vi
 
 ## 🖼️ Vista Previa
 
-![Calculadora](https://user-images.githubusercontent.com/placeholder/calculadora-preview.png)
+![Calculadora]https://github.com/Giovannyzevallos/Actividad1_Calculadora.git
 
 ---
 
